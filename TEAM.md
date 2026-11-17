@@ -5,7 +5,7 @@
 - Tên thành viên (ứng với mã thành viên): Nguyễn Quốc Khánh, Nguyễn Quốc Việt, Đoàn Quang Minh, Nguyễn Chí Tài, Đặng Anh Tuyền
 - Người điều phối: 03238 Nguyễn Quốc Khánh
 - Người review bản cuối: 03228 Đoàn Quang Minh
-- Commit chốt bài (điền ở kênh nộp sau khi commit):
+- Commit chốt bài (điền ở kênh nộp sau khi commit): 179f84c
 
 ## Kết quả tóm tắt (điền cuối bài)
 
